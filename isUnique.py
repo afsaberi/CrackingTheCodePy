@@ -9,4 +9,4 @@ def isUnique(string):
             list.append(i)
     print "Is unique"
     return True
-isUnique("This a et")
+isUnique("hello")
