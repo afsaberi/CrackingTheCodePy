@@ -9,4 +9,4 @@ def URLify(string,length):
             final+="%20"
             count+=3
     return final
-print URLify("Mr John Smith  ",13)
+print URLify("what is",9)
