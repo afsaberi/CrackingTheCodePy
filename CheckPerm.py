@@ -25,4 +25,4 @@ def checkPerm(first,second):
         return False
     print "is a Permutation"
     return True
-checkPerm("abc","cab")
+checkPerm("Aerate pet area","cab")
